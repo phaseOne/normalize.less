@@ -14,10 +14,14 @@
     "normalize.less"
   ],
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "bower_components"
-  ],
+  "bugs": {
+    "url" : "https://github.com/phaseOne/normalize.less/issues",
+    "email" : "evan@bovie.me"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/phaseOne/normalize.less.git"
+  },
   "dependencies": {
     "normalize.css": "*"
   }
