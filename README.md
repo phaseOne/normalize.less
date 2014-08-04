@@ -16,6 +16,11 @@ normalize.less
 
 No other `@import` statements should come before Normalize.less.
 
+## Note about repo
+Because the subdirectories of dependencies are different for `npm` and `bower`, this package has slightly different versions for each package manager.
+
+You can explore these differences by selecting the branch of the package manager that you want.
+
 ## License
 * normalize.less is licensed under the same license as normalize.css
   * [The MIT License (MIT)](http://opensource.org/licenses/MIT)
